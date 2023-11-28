@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INSY4051_GitHub_Connection_Practice", "INSY4051_GitHub_Connection_Practice.csproj", "{6F6DE822-B283-4047-97F1-30493F79FABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6DE822-B283-4047-97F1-30493F79FABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6DE822-B283-4047-97F1-30493F79FABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6DE822-B283-4047-97F1-30493F79FABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6DE822-B283-4047-97F1-30493F79FABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9C216B-34A8-41E7-A6F2-C4CA368FD833}
+	EndGlobalSection
+EndGlobal
